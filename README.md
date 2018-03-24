@@ -1,0 +1,2 @@
+# messagePool
+Browse for messages
